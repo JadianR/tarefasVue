@@ -29,7 +29,7 @@
     height: 150px;
     padding: 10px;
     border-radius: 8px;
-    font-size: 2rem;
+    font-size: 1.7rem;
     font-weight: 300;
     user-select: none;
     display: flex;
